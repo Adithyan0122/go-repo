@@ -1,0 +1,12 @@
+# Go binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go build cache
+.go/
+
+# macOS
+.DS_Store
