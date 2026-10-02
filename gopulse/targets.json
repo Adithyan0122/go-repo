@@ -1,0 +1,9 @@
+{
+  "urls": [
+    "https://www.google.com",
+    "https://jsonplaceholder.typicode.com/posts",
+    "https://httpstat.us/500",
+    "https://httpbin.dev/delay/3",
+    "https://badhost"
+  ]
+}
